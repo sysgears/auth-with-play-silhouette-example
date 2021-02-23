@@ -1,0 +1,5 @@
+invalid.old.password = Old password is invalid
+invalid.body = Request body is invalid
+could.not.find.user = Could not find user
+invalid.credentials = Invalid credentials
+user.already.exist = User already exists
