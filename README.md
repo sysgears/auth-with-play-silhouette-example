@@ -1,0 +1,1 @@
+# auth-with-play-silhouette-example
